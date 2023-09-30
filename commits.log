@@ -1,0 +1,104 @@
+commit 39d08e07ccb243e6c852a7f9cee261ca4669971a
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 18:46:17 2023 -0500
+
+    Agregando dos parrafos
+
+commit e342ced52a29b741af22c76d3b711acfab698f2f
+Merge: a4aeef1 135c857
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 18:41:35 2023 -0500
+
+    Resolviendo conflicto en estaciones del año con fecha de inicio
+
+commit a4aeef126ad95d346820c016aaa0b6382daa8509
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 18:22:01 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 135c857ccedcf42cea7073076b90dc2841a6312a
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 18:22:01 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 13d7c867ecc6fac548175eff562e0cc41f0f408d
+Merge: 989c7f9 4a6e369
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 18:15:36 2023 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 4a6e369468bc6302012e600f6f453cda7049f1b6
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 18:09:09 2023 -0500
+
+    Agregando app.js al inde.html
+
+commit 989c7f9eec82274f0ad2272b30516a80091c3755
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 18:06:44 2023 -0500
+
+    Agregando nuevas etiquetas
+
+commit b1bf83b6158821629956ed275cc6d7abd8feb854
+Merge: 6055ad0 0e74942
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 17:31:31 2023 -0500
+
+    Merge branch 'js'
+
+commit 0e749426d81b7c858d9e33d10b72a7af762e4d72
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 17:26:25 2023 -0500
+
+    Creando archivo app.js
+
+commit 6055ad07bc14cec7f16bb6792e4a5c80e966f6f5
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 17:21:24 2023 -0500
+
+    Creando style.css
+
+commit 96426cbbbd949edc1b673367f173f98c9c88ee6e
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 17:16:32 2023 -0500
+
+    Creando archivo index.html
+
+commit 94dde498507a8efdda27a349fb4754bf5beceee4
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Fri Sep 29 16:54:30 2023 -0500
+
+    Ignorando archivos .exe
+
+commit ff4c705a6c39e6977cc3836aaca5220e7916d972
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Wed Sep 27 06:36:15 2023 -0500
+
+    Arreglando ortografia
+
+commit 5526ac5d70addd2b2f1c43befb285467a0a767da
+Author: David Zegarra Hurtado <121729528+DzegarraH@users.noreply.github.com>
+Date:   Wed Sep 27 06:32:57 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 0c87d2f0c3c11545e5f0da83889d172ac5b271d2
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Wed Sep 27 06:24:06 2023 -0500
+
+    agregando mas contenifo al README
+
+commit a8eb795bb97bc70210162a6d3fe04f2c49d50eaf
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Wed Sep 27 06:14:00 2023 -0500
+
+    Agregando contenido inicial en el README
+
+commit 145665d3fb0af6150900e6ad1dd679670bf235c1
+Author: David zegarra hurtado <David.zegarra.hurtado@hotmail.com>
+Date:   Wed Sep 27 06:08:55 2023 -0500
+
+    Primer commit
