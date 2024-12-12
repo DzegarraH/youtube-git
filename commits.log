@@ -1,0 +1,81 @@
+commit efbc73a8569a0ae4070bc9af03274a0ac822c383
+Merge: 0a6df1d c7e72c6
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 12 16:17:17 2024 -0500
+
+    resolviendo conflicto en estaciones del anio y fecha de inicio
+
+commit 0a6df1dcefe2ff95ef619e51747e814c25f9fd3c
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 12 15:58:58 2024 -0500
+
+    Agregando estaciones del anio con fechas
+
+commit c7e72c6d67337522e6ee68a1657a8ac3c2b3cd75
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 12 15:58:58 2024 -0500
+
+    Agregando las estaciones del anio
+
+commit b06655a1390519c85ee79c80f91b617f1190c6d8
+Merge: 0714c66 f891936
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 12 13:57:30 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit f891936540af40f00d39bfb5a5cf70af73e9c634
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 12 13:50:51 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 0714c666d77ff921ec737be8128e23bfff57e547
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 12 13:47:59 2024 -0500
+
+    Agregando styles.css al index.hmtl
+
+commit 9555117de733b3a4ebd62fe73f146791c91e8906
+Merge: c2be963 33a0ad4
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 5 22:08:23 2024 -0500
+
+    Merge branch 'js'
+
+commit c2be963790f8fa87a3480a4486c86808cb2281aa
+Merge: 05d5c9a fa6a8fc
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 5 22:08:11 2024 -0500
+
+    Merge branch 'css'
+
+commit 33a0ad4179751f0990d1a007859f14688e799205
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 5 22:02:20 2024 -0500
+
+    Creando index.js
+
+commit fa6a8fc8deea0b2d1a780ae1a72c03b9b1d89d7f
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 5 21:57:11 2024 -0500
+
+    Creando style.css
+
+commit 05d5c9a7136638e05b6596d5bbbf8b8b9387b5f8
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 5 21:51:49 2024 -0500
+
+    Creando archivo html
+
+commit a9aad675da68f92af16c66d37fa68f4c61063abf
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 5 21:29:19 2024 -0500
+
+    Agregando descripcion en README
+
+commit 9789925ae5a5fa60cffe03a145f9e40267ec5953
+Author: david <david.zegarra.hurtado@hotmail.com>
+Date:   Thu Dec 5 21:25:01 2024 -0500
+
+    Mi primer commit

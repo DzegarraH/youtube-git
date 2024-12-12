@@ -1,0 +1,23 @@
+* 704ae71 Agregando dos parrafos
+*   efbc73a resolviendo conflicto en estaciones del anio y fecha de inicio
+|\  
+| * c7e72c6 Agregando las estaciones del anio
+* | 0a6df1d Agregando estaciones del anio con fechas
+|/  
+*   b06655a Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * f891936 Agregando index.js al index.html
+* | 0714c66 Agregando styles.css al index.hmtl
+* |   9555117 Merge branch 'js'
+|\ \  
+| * | 33a0ad4 Creando index.js
+* | |   c2be963 Merge branch 'css'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | fa6a8fc Creando style.css
+| |/  
+* / 05d5c9a Creando archivo html
+|/  
+* a9aad67 Agregando descripcion en README
+* 9789925 Mi primer commit
